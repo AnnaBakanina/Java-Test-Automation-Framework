@@ -8,7 +8,7 @@ import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class RepoTabTests extends BaseTestClass {
+public class test_RepoTab extends BaseTestClass {
 
     @Test
     void repositoryCountIsCorrect() {

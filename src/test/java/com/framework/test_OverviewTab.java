@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class OverviewTabTests extends BaseTestClass {
+public class test_OverviewTab extends BaseTestClass {
 
     String user = "AnnaBakanina";
 
